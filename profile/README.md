@@ -8,6 +8,6 @@ Free games for working memory, processing speed, attention control and reasoning
 - [Stroop](https://iqmaxxing.org/stroop), [reaction time](https://iqmaxxing.org/rt) and [relational reasoning](https://iqmaxxing.org/reason)
 - [How to read your n-back score](https://iqmaxxing.org/theory/reading-your-score) and [what IQ maxxing means](https://iqmaxxing.org/theory/iq-maxxing)
 
-On iPhone and iPad: [IQMAXXING: Dual N-Back](https://apps.apple.com/app/iqmaxxing-dual-n-back/id6825253595) on the App Store.
+On iPhone and iPad: [IQMAXXING: Dual N-Back](https://apps.apple.com/app/iqmaxxing-dual-n-back/id6825253595) on the App Store. On Android: [IQMAXXING: Dual N-Back Trainer](https://play.google.com/store/apps/details?id=org.iqmaxxing.app) on Google Play.
 
 Talk to us on [Discord](https://discord.gg/PJt45YhjuH) or in [r/iqmaxxingg](https://www.reddit.com/r/iqmaxxingg/).
